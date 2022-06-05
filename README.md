@@ -2,7 +2,7 @@
 
 git clone project url
 
-# secont step
+# second step
 cd my-to_do-app
 
 # 3rd step
